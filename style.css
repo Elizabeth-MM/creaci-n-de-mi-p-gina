@@ -1,10 +1,21 @@
-header{
-    background-color: #e5cbb4;
-}
 main{
     background-image: url("https://cutewallpaper.org/21/cute-husky-wallpaper/Siberian-Husky-Watercolor-Painting-Canidae-Siberian-Husky-.png");
     background-repeat: no-repeat;
     background-size: 800px;
     height: 900px;
+}
+p{
+    color: black;
+    font-family: 'Quattrocento', serif;
+}
+h3{
+    color:#000054;
     
 }
+.titulo1{
+    color: red;
+}
+.titulo3{
+    color: aqua;
+}
+
